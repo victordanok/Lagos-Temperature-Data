@@ -43,7 +43,7 @@ The scrapped data contained;
 ## Exploratory Data Analysis
  1. Line chart showing Global Temperature <br>
   
- ![image](https://user-images.githubusercontent.com/70073139/127247688-4fabbe79-295d-4c0d-bfe5-ca6c9681b97b.png)
+  ![image](https://user-images.githubusercontent.com/70073139/127406010-fd34d950-add2-4ef0-bbd7-17aa48cce8f5.png)
   Figure1: Global Temperature Chart for over 150 years
 <br>
   
