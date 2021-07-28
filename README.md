@@ -40,7 +40,7 @@ The scrapped data contained;
   
 2. Merging Lagos and Global temperature datasets into One 
   
-## EDA  
+## Exploratory Data Analysis
  1. Line chart showing Global Temperature <br>
   
  ![image](https://user-images.githubusercontent.com/70073139/127247688-4fabbe79-295d-4c0d-bfe5-ca6c9681b97b.png)
